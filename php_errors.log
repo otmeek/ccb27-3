@@ -1,0 +1,188 @@
+[29-Feb-2016 12:16:39 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ubuntu/workspace/P4/login.php on line 9
+[29-Feb-2016 13:02:54 UTC] PHP Warning:  session_start(): open(/session/s/sess_s16399k17768i4vdroapuq4a06, O_RDWR) failed: No such file or directory (2) in /home/ubuntu/workspace/P4/login.php on line 3
+[29-Feb-2016 13:02:54 UTC] PHP Stack trace:
+[29-Feb-2016 13:02:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/P4/login.php:0
+[29-Feb-2016 13:02:54 UTC] PHP   2. session_start() /home/ubuntu/workspace/P4/login.php:3
+[29-Feb-2016 13:03:06 UTC] PHP Warning:  session_start(): open(/session/s/sess_s16399k17768i4vdroapuq4a06, O_RDWR) failed: No such file or directory (2) in /home/ubuntu/workspace/P4/login.php on line 3
+[29-Feb-2016 13:03:06 UTC] PHP Stack trace:
+[29-Feb-2016 13:03:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/P4/login.php:0
+[29-Feb-2016 13:03:06 UTC] PHP   2. session_start() /home/ubuntu/workspace/P4/login.php:3
+[29-Feb-2016 13:04:01 UTC] PHP Warning:  session_start(): open(session/sess_s16399k17768i4vdroapuq4a06, O_RDWR) failed: No such file or directory (2) in /home/ubuntu/workspace/P4/login.php on line 3
+[29-Feb-2016 13:04:01 UTC] PHP Stack trace:
+[29-Feb-2016 13:04:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/P4/login.php:0
+[29-Feb-2016 13:04:01 UTC] PHP   2. session_start() /home/ubuntu/workspace/P4/login.php:3
+[29-Feb-2016 13:05:43 UTC] PHP Warning:  session_start(): open(session/sess_s16399k17768i4vdroapuq4a06, O_RDWR) failed: No such file or directory (2) in /home/ubuntu/workspace/P4/login.php on line 3
+[29-Feb-2016 13:05:43 UTC] PHP Stack trace:
+[29-Feb-2016 13:05:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/P4/login.php:0
+[29-Feb-2016 13:05:43 UTC] PHP   2. session_start() /home/ubuntu/workspace/P4/login.php:3
+[29-Feb-2016 13:29:19 UTC] PHP Warning:  session_start(): open(session/sess_s16399k17768i4vdroapuq4a06, O_RDWR) failed: No such file or directory (2) in /home/ubuntu/workspace/P4/index.php on line 2
+[29-Feb-2016 13:29:19 UTC] PHP Stack trace:
+[29-Feb-2016 13:29:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/P4/index.php:0
+[29-Feb-2016 13:29:19 UTC] PHP   2. session_start() /home/ubuntu/workspace/P4/index.php:2
+[02-Mar-2016 13:35:32 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/ubuntu/workspace/M3/login.php on line 22
+[02-Mar-2016 13:35:32 UTC] PHP Stack trace:
+[02-Mar-2016 13:35:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/M3/login.php:0
+[02-Mar-2016 13:35:32 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/M3/login.php:22
+[02-Mar-2016 13:35:57 UTC] PHP Warning:  mysql_connect(): Connection refused in /home/ubuntu/workspace/M3/login.php on line 22
+[02-Mar-2016 13:35:57 UTC] PHP Stack trace:
+[02-Mar-2016 13:35:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/M3/login.php:0
+[02-Mar-2016 13:35:57 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/M3/login.php:22
+[02-Mar-2016 13:37:13 UTC] PHP Warning:  mysql_connect(): Bad handshake in /home/ubuntu/workspace/M3/login.php on line 22
+[02-Mar-2016 13:37:13 UTC] PHP Stack trace:
+[02-Mar-2016 13:37:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/M3/login.php:0
+[02-Mar-2016 13:37:13 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/M3/login.php:22
+[02-Mar-2016 13:38:27 UTC] PHP Warning:  mysql_connect(): Bad handshake in /home/ubuntu/workspace/M3/login.php on line 22
+[02-Mar-2016 13:38:27 UTC] PHP Stack trace:
+[02-Mar-2016 13:38:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/M3/login.php:0
+[02-Mar-2016 13:38:27 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/M3/login.php:22
+[02-Mar-2016 13:38:36 UTC] PHP Warning:  mysql_connect(): Connection refused in /home/ubuntu/workspace/M3/login.php on line 22
+[02-Mar-2016 13:38:36 UTC] PHP Stack trace:
+[02-Mar-2016 13:38:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/M3/login.php:0
+[02-Mar-2016 13:38:36 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/M3/login.php:22
+[02-Mar-2016 13:39:13 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/ubuntu/workspace/M3/login.php on line 22
+[02-Mar-2016 13:39:13 UTC] PHP Stack trace:
+[02-Mar-2016 13:39:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/M3/login.php:0
+[02-Mar-2016 13:39:13 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/M3/login.php:22
+[02-Mar-2016 13:40:46 UTC] PHP Warning:  mysql_connect(): Connection refused in /home/ubuntu/workspace/M3/login.php on line 22
+[02-Mar-2016 13:40:46 UTC] PHP Stack trace:
+[02-Mar-2016 13:40:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/M3/login.php:0
+[02-Mar-2016 13:40:46 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/M3/login.php:22
+[02-Mar-2016 13:44:00 UTC] PHP Parse error:  syntax error, unexpected '$connection' (T_VARIABLE) in /home/ubuntu/workspace/M3/login.php on line 24
+[02-Mar-2016 13:44:13 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, object given in /home/ubuntu/workspace/M3/login.php on line 27
+[02-Mar-2016 13:44:13 UTC] PHP Stack trace:
+[02-Mar-2016 13:44:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/M3/login.php:0
+[02-Mar-2016 13:44:13 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/M3/login.php:27
+[02-Mar-2016 13:44:13 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/M3/login.php on line 28
+[02-Mar-2016 13:44:13 UTC] PHP Stack trace:
+[02-Mar-2016 13:44:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/M3/login.php:0
+[02-Mar-2016 13:44:13 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/M3/login.php:28
+[02-Mar-2016 13:44:37 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, object given in /home/ubuntu/workspace/M3/login.php on line 27
+[02-Mar-2016 13:44:37 UTC] PHP Stack trace:
+[02-Mar-2016 13:44:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/M3/login.php:0
+[02-Mar-2016 13:44:37 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/M3/login.php:27
+[02-Mar-2016 13:44:37 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/M3/login.php on line 28
+[02-Mar-2016 13:44:37 UTC] PHP Stack trace:
+[02-Mar-2016 13:44:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/M3/login.php:0
+[02-Mar-2016 13:44:37 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/M3/login.php:28
+[02-Mar-2016 13:44:58 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/M3/login.php on line 28
+[02-Mar-2016 13:44:58 UTC] PHP Stack trace:
+[02-Mar-2016 13:44:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/M3/login.php:0
+[02-Mar-2016 13:44:58 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/M3/login.php:28
+[02-Mar-2016 13:47:06 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/M3/login.php on line 28
+[02-Mar-2016 13:47:06 UTC] PHP Stack trace:
+[02-Mar-2016 13:47:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/M3/login.php:0
+[02-Mar-2016 13:47:06 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/M3/login.php:28
+[02-Mar-2016 13:50:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/M3/login.php on line 26
+[02-Mar-2016 13:50:53 UTC] PHP Stack trace:
+[02-Mar-2016 13:50:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/M3/login.php:0
+[02-Mar-2016 13:50:53 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/M3/login.php:26
+[02-Mar-2016 13:51:17 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/M3/login.php on line 26
+[02-Mar-2016 13:51:17 UTC] PHP Stack trace:
+[02-Mar-2016 13:51:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/M3/login.php:0
+[02-Mar-2016 13:51:17 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/M3/login.php:26
+[02-Mar-2016 13:53:22 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/M3/login.php on line 26
+[02-Mar-2016 13:53:22 UTC] PHP Stack trace:
+[02-Mar-2016 13:53:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/M3/login.php:0
+[02-Mar-2016 13:53:22 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/M3/login.php:26
+[02-Mar-2016 13:59:33 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/ubuntu/workspace/M3/login.php on line 22
+[02-Mar-2016 13:59:34 UTC] PHP Stack trace:
+[02-Mar-2016 13:59:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/M3/login.php:0
+[02-Mar-2016 13:59:34 UTC] PHP   2. mysqli_select_db() /home/ubuntu/workspace/M3/login.php:22
+[02-Mar-2016 13:59:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/ubuntu/workspace/M3/login.php on line 25
+[02-Mar-2016 13:59:34 UTC] PHP Stack trace:
+[02-Mar-2016 13:59:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/M3/login.php:0
+[02-Mar-2016 13:59:34 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/M3/login.php:25
+[02-Mar-2016 13:59:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/M3/login.php on line 26
+[02-Mar-2016 13:59:34 UTC] PHP Stack trace:
+[02-Mar-2016 13:59:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/M3/login.php:0
+[02-Mar-2016 13:59:34 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/M3/login.php:26
+[02-Mar-2016 13:59:46 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, object given in /home/ubuntu/workspace/M3/login.php on line 22
+[02-Mar-2016 13:59:46 UTC] PHP Stack trace:
+[02-Mar-2016 13:59:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/M3/login.php:0
+[02-Mar-2016 13:59:46 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/M3/login.php:22
+[02-Mar-2016 13:59:46 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, object given in /home/ubuntu/workspace/M3/login.php on line 25
+[02-Mar-2016 13:59:46 UTC] PHP Stack trace:
+[02-Mar-2016 13:59:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/M3/login.php:0
+[02-Mar-2016 13:59:46 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/M3/login.php:25
+[02-Mar-2016 13:59:46 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/M3/login.php on line 26
+[02-Mar-2016 13:59:46 UTC] PHP Stack trace:
+[02-Mar-2016 13:59:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/M3/login.php:0
+[02-Mar-2016 13:59:46 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/M3/login.php:26
+[02-Mar-2016 14:16:28 UTC] PHP Fatal error:  Call to undefined function PASSWORD() in /home/ubuntu/workspace/M3/login.php on line 33
+[02-Mar-2016 14:16:28 UTC] PHP Stack trace:
+[02-Mar-2016 14:16:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/M3/login.php:0
+[02-Mar-2016 14:24:16 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/M3/login.php on line 28
+[02-Mar-2016 14:24:16 UTC] PHP Stack trace:
+[02-Mar-2016 14:24:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/M3/login.php:0
+[02-Mar-2016 14:24:16 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/M3/login.php:28
+[02-Mar-2016 14:24:42 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/M3/login.php on line 28
+[02-Mar-2016 14:24:42 UTC] PHP Stack trace:
+[02-Mar-2016 14:24:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/M3/login.php:0
+[02-Mar-2016 14:24:42 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/M3/login.php:28
+[02-Mar-2016 14:25:27 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/M3/login.php on line 28
+[02-Mar-2016 14:25:27 UTC] PHP Stack trace:
+[02-Mar-2016 14:25:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/M3/login.php:0
+[02-Mar-2016 14:25:27 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/M3/login.php:28
+[02-Mar-2016 14:28:04 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/M3/login.php on line 24
+[02-Mar-2016 14:28:04 UTC] PHP Stack trace:
+[02-Mar-2016 14:28:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/M3/login.php:0
+[02-Mar-2016 14:28:04 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/M3/login.php:24
+[02-Mar-2016 14:29:08 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/M3/login.php on line 24
+[02-Mar-2016 14:29:08 UTC] PHP Stack trace:
+[02-Mar-2016 14:29:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/M3/login.php:0
+[02-Mar-2016 14:29:08 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/M3/login.php:24
+[02-Mar-2016 15:52:18 UTC] PHP Warning:  get_browser(): browscap ini directive not set in /home/ubuntu/workspace/M3/login.php on line 35
+[02-Mar-2016 15:52:18 UTC] PHP Stack trace:
+[02-Mar-2016 15:52:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/M3/login.php:0
+[02-Mar-2016 15:52:18 UTC] PHP   2. get_browser() /home/ubuntu/workspace/M3/login.php:35
+[02-Mar-2016 15:57:04 UTC] PHP Warning:  get_browser(): browscap ini directive not set in /home/ubuntu/workspace/M3/login.php on line 35
+[02-Mar-2016 15:57:04 UTC] PHP Stack trace:
+[02-Mar-2016 15:57:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/M3/login.php:0
+[02-Mar-2016 15:57:04 UTC] PHP   2. get_browser() /home/ubuntu/workspace/M3/login.php:35
+[02-Mar-2016 15:57:25 UTC] PHP Warning:  get_browser(): browscap ini directive not set in /home/ubuntu/workspace/M3/login.php on line 35
+[02-Mar-2016 15:57:25 UTC] PHP Stack trace:
+[02-Mar-2016 15:57:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/M3/login.php:0
+[02-Mar-2016 15:57:25 UTC] PHP   2. get_browser() /home/ubuntu/workspace/M3/login.php:35
+[02-Mar-2016 15:57:44 UTC] PHP Warning:  get_browser(): browscap ini directive not set in /home/ubuntu/workspace/M3/login.php on line 35
+[02-Mar-2016 15:57:44 UTC] PHP Stack trace:
+[02-Mar-2016 15:57:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/M3/login.php:0
+[02-Mar-2016 15:57:44 UTC] PHP   2. get_browser() /home/ubuntu/workspace/M3/login.php:35
+[02-Mar-2016 15:58:30 UTC] PHP Warning:  get_browser(): browscap ini directive not set in /home/ubuntu/workspace/M3/login.php on line 35
+[02-Mar-2016 15:58:30 UTC] PHP Stack trace:
+[02-Mar-2016 15:58:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/M3/login.php:0
+[02-Mar-2016 15:58:30 UTC] PHP   2. get_browser() /home/ubuntu/workspace/M3/login.php:35
+[02-Mar-2016 15:59:31 UTC] PHP Warning:  get_browser(): browscap ini directive not set in /home/ubuntu/workspace/M3/login.php on line 35
+[02-Mar-2016 15:59:31 UTC] PHP Stack trace:
+[02-Mar-2016 15:59:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/M3/login.php:0
+[02-Mar-2016 15:59:31 UTC] PHP   2. get_browser() /home/ubuntu/workspace/M3/login.php:35
+[02-Mar-2016 17:09:14 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/D2/statistics2.php on line 87
+[02-Mar-2016 17:09:49 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/D2/statistics2.php on line 88
+[02-Mar-2016 17:10:15 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/D2/statistics2.php on line 92
+[02-Mar-2016 17:10:24 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/D2/statistics2.php on line 83
+[02-Mar-2016 17:10:24 UTC] PHP Stack trace:
+[02-Mar-2016 17:10:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/D2/statistics2.php:0
+[02-Mar-2016 17:10:24 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/D2/statistics2.php:83
+[02-Mar-2016 17:10:44 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/D2/statistics2.php on line 83
+[02-Mar-2016 17:10:44 UTC] PHP Stack trace:
+[02-Mar-2016 17:10:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/D2/statistics2.php:0
+[02-Mar-2016 17:10:44 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/D2/statistics2.php:83
+[02-Mar-2016 17:11:38 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/D2/statistics2.php on line 83
+[02-Mar-2016 17:11:38 UTC] PHP Stack trace:
+[02-Mar-2016 17:11:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/D2/statistics2.php:0
+[02-Mar-2016 17:11:38 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/D2/statistics2.php:83
+[02-Mar-2016 17:12:27 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/D2/statistics2.php on line 83
+[02-Mar-2016 17:12:27 UTC] PHP Stack trace:
+[02-Mar-2016 17:12:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/D2/statistics2.php:0
+[02-Mar-2016 17:12:27 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/D2/statistics2.php:83
+[02-Mar-2016 17:12:44 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/D2/statistics2.php on line 83
+[02-Mar-2016 17:12:44 UTC] PHP Stack trace:
+[02-Mar-2016 17:12:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/D2/statistics2.php:0
+[02-Mar-2016 17:12:44 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/D2/statistics2.php:83
+[02-Mar-2016 17:13:40 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/D2/statistics2.php on line 83
+[02-Mar-2016 17:13:40 UTC] PHP Stack trace:
+[02-Mar-2016 17:13:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/D2/statistics2.php:0
+[02-Mar-2016 17:13:40 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/D2/statistics2.php:83
+[02-Mar-2016 17:15:17 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/D2/statistics2.php on line 83
+[02-Mar-2016 17:15:17 UTC] PHP Stack trace:
+[02-Mar-2016 17:15:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/D2/statistics2.php:0
+[02-Mar-2016 17:15:17 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/D2/statistics2.php:83
